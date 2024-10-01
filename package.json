@@ -1,0 +1,19 @@
+{
+  "name": "raghavbackend",
+  "version": "1.0.0",
+  "description": "first backend tut",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "raghav"
+  ],
+  "author": "Raghav Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
